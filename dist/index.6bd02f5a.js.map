@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,cAAa;IAClB,QAAQ,GAAG,CAAC;AAChB","sources":["App.js"],"sourcesContent":["function handleClick(){\n    console.log('click me here');\n}"],"names":[],"version":3,"file":"index.6bd02f5a.js.map","sourceRoot":"/__parcel_source_root/"}
